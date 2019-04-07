@@ -1,0 +1,8 @@
+{
+   "lunch":
+      [
+	{"name": "egg sandwich","price": "$6.00","calories": 800},
+	{"name": "field green salad","price": "$4.50","calories":300},
+	{"name": "pizza","price": "$9.00","calories": 1000}
+   ]
+}

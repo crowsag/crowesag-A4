@@ -1,0 +1,8 @@
+{
+   "dinner":
+      [
+	{"name": "burger and fries","price": "$14.00","calories": 1200},
+	{"name": "chicken curry","price": "$10.00","calories": 900},
+	{"name": "fried fish","price": "$11.80","calories": 680}
+   ]
+}
